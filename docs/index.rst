@@ -16,6 +16,7 @@ Recursos de matemáticas
 .. toctree::
    :maxdepth: 2
 
+   Prefacio <prefacio>
    Oposiciones de Matemáticas <oposiciones>
    Oposiciones de Estadística <estadistica>
    Exámenes de Estadística nivel universitario <estad_uni>

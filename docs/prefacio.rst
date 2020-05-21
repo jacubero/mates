@@ -1,5 +1,13 @@
-Recursos de matemáticas
-=======================
+Prefacio
+========
+
+Autor
+-----
+
+José Antonio Álvarez Cubero
+
+Objetivos
+---------
 
 Esta página esta orientada a todas aquellas personas interesadas en practicar la resolución de problemas de matemáticas. Resulta de especial interes para todos aquellos que esten interesados en prepararse para:
 
@@ -16,4 +24,4 @@ Esta página esta orientada a todas aquellas personas interesadas en practicar l
 Cómo colaborar
 --------------
 
-En esta página comparto los recursos que he recopilado desde diversas fuentes. Si tienes enlaces/recursos/problemas escaneados/oficiales de exámenes que no estan recogidos en esta página, te invito a que los envíes al correo electrónico `<oposiciones.mat@gmail.com/>`_ y los compartiré.
+En esta página comparto los recursos que he recopilado desde diversas fuentes. Si tienes enlaces/recursos/problemas escaneados oficiales de exámenes que no estan recogidos en esta página, te invito a que los envíes a la siguiente dirección `<oposiciones.mat@gmail.com/>`_ y los compartiré.

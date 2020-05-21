@@ -328,7 +328,7 @@ Criterios de corrección
 
       - Comunidad Valenciana
 
-    * - 2008
+    * - 2016
 
       - Andalucía
 
@@ -356,7 +356,7 @@ Criterios de corrección
 
       - Madrid
 
-      - `Murcia <https://github.com/jacubero/matemas/blob/master/Oposiciones/2019/murcia08-crit.pdf>`_
+      - Murcia
 
       - Navarra
 
@@ -364,5 +364,4 @@ Criterios de corrección
 
       - La Rioja
 
-      - Comunidad Valenciana
-
+      - `Comunidad Valenciana <https://github.com/jacubero/matemas/blob/master/Oposiciones/2016/valencia16-crit.pdf>`_
