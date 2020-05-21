@@ -1,2 +1,0 @@
-# mates
-Recursos de matemáticas
