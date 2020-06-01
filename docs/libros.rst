@@ -4,7 +4,8 @@ Libros de problemas
 
 .. figure:: images/opo18.jpg
     :align: left
-    :figwidth: 200px
+    :height: 386px
+    :width: 499px
 
     Problemas resueltos de Oposiciones de Matemáticas año 2018.
 
