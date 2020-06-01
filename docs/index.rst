@@ -17,11 +17,12 @@ Recursos de matemáticas
    :maxdepth: 2
 
    Prefacio <prefacio>
+   Libros de problemas <libros>
    Oposiciones de Matemáticas <oposiciones>
    Oposiciones de Estadística <estadistica>
    Exámenes de Estadística nivel universitario <estad_uni>
    Modelización matemática <model>
-   Colecciones de problemas <colecciones>
+   Sitios web de matemáticas <sitios>
 ..   Olimpiadas locales <locales>
    Olimpiadas nacionales <nacionales>
    Olimpiadas internacionales <internacionales>
