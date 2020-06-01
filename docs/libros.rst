@@ -2,7 +2,7 @@ Libros de problemas
 ===================
 
 
-.. figure:: /images/opo18.jpg
+.. figure:: images/opo18.jpg
     :align: left
     :figwidth: 200px
 
