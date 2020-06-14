@@ -22,7 +22,7 @@ Recursos de matemáticas
    Oposiciones de Estadística <estadistica>
    Exámenes de Estadística nivel universitario <estad_uni>
    Modelización matemática <model>
-   Sitios web de matemáticas <sitios>
+   Enlaces interesantes <sitios>
 ..   Olimpiadas locales <locales>
    Olimpiadas nacionales <nacionales>
    Olimpiadas internacionales <internacionales>
