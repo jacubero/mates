@@ -4,7 +4,7 @@ Exámenes de estadística
 Universidad Autónoma de Madrid
 ------------------------------
 
-.. list-table:: Exámenes resueltos de Estadística Descriptiva.
+.. list-table:: Exámenes resueltos de Estadística.
     :widths: 20 40 40
     :header-rows: 1
     :stub-columns: 1
@@ -15,11 +15,17 @@ Universidad Autónoma de Madrid
 
       - Examen
 
+    * - 2015
+
+      - Grado gestión aeronáutica
+
+      - `Estadística Teórica <https://github.com/jacubero/mates/blob/master/estad_uni/uam/aeronautica-15.pdf>`_
+
     * - 2013
 
       - Ciencias Económicas y Empresariales
 
-      - `Exámenes <https://github.com/jacubero/mates/blob/master/estad_uni/uam/solucion-examenes-economicas2013.pdf>`_
+      - `Estadística Descriptiva <https://github.com/jacubero/mates/blob/master/estad_uni/uam/solucion-examenes-economicas2013.pdf>`_
 
 
 Universidad Carlos III de Madrid
