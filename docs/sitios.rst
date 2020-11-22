@@ -56,3 +56,12 @@ Oposiciones
 * `Academia ADOS <https://www.academiaados.com/academia-de-oposiciones-de-secundaria-en-valencia/>`_
 
 * `preparador mates <https://www.youtube.com/channel/UCOZArjUt3KYOWaWccv5Ex8g>`_
+
+Autopublicación
+---------------
+
+* `Author Central <https://authorcentral.amazon.com/gp/home>`_
+
+* `Fiscalidad del ebook: guía para escritores independientes para no naufragar entre impuestos <https://ebookhermanos.com/fiscalidad-del-ebook-escritores-impuestos/>`_
+
+* `Fiscalidad del escritor en España <http://marianaeguaras.com/fiscalidad-del-escritor-en-espana/>`_
