@@ -5,7 +5,7 @@ Concurso de Modelización Matemática del IMI
 -------------------------------------------
 
 .. list-table:: 
-    :widths: 5 10
+    :widths: 5 10 10
     :header-rows: 1
     :stub-columns: 1
 
