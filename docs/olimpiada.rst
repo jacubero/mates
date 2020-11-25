@@ -68,3 +68,51 @@ Olimpiada Iberoamericana de Matemática Universitaria
       - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/examen_OIMU2011.pdf>`_
 
       - `Soluciones <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/OIMU2011ExSolCri.pdf>`_
+
+    * - 2010
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu10.pdf>`_
+
+      - 
+
+    * - 2009
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu09.pdf>`_
+
+      - 
+
+    * - 2008
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu08.pdf>`_
+
+      - 
+
+    * - 2006
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu06.pdf>`_
+
+      - 
+
+    * - 2001
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu01s.pdf>`_
+
+      - 
+
+    * - 2000
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu00.pdf>`_
+
+      - 
+
+    * - 1999
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu99.pdf>`_
+
+      - 
+
+    * - 1998
+
+      - `Enunciados <https://github.com/jacubero/matemas/blob/master/Olimpiadas/OIMU/oimu98.pdf>`_
+
+      - 

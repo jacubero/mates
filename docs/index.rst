@@ -21,10 +21,11 @@ Recursos de matemáticas
    Oposiciones de Matemáticas <oposiciones>
    Oposiciones de Estadística <estadistica>
    Exámenes de Estadística nivel universitario <estad_uni>
+   Olimpiadas <olimpiada>
    Modelización matemática <model>
    Enlaces interesantes <sitios>
 ..   Olimpiadas locales <locales>
-   Olimpiadas nacionales <nacionales>
+
    Olimpiadas internacionales <internacionales>
    Exámenes de Álgebra Lineal nivel universitario <lagl_uni>
 
