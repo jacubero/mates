@@ -4,6 +4,38 @@ Exámenes de estadística
 Universidad Autónoma de Madrid
 ------------------------------
 
+.. list-table:: Enunciados de exámenes.
+    :widths: 20 40 40
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Año
+
+      - Titulación
+
+      - Examen
+
+    * - 2007
+
+      - Grado en matemáticas
+
+      - `CÁLCULO DE PROBABILIDADES Y ESTADÍSTICA <https://github.com/jacubero/mates/blob/master/estad_uni/uned/08231.pdf>`_
+
+    * - 2007
+
+      - Grado en matemáticas
+
+      - `TEORÍA DE LA DECISIÓN <https://github.com/jacubero/mates/blob/master/estad_uni/uned/08406.pdf>`_
+
+    * - 2007
+
+      - Grado en matemáticas
+
+      - `Procesos estocásticos <https://github.com/jacubero/mates/blob/master/estad_uni/uned/08513.pdf>`_
+
+Universidad Autónoma de Madrid
+------------------------------
+
 .. list-table:: Exámenes resueltos de Estadística.
     :widths: 20 40 40
     :header-rows: 1
@@ -11,7 +43,7 @@ Universidad Autónoma de Madrid
 
     * - Año
 
-      - Curso
+      - Titulación
 
       - Examen
 
