@@ -1,5 +1,5 @@
-Exámenes de estadística
-=======================
+Estadística de nivel universitario
+==================================
 
 Universidad Autónoma de Madrid
 ------------------------------

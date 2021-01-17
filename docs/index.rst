@@ -20,7 +20,8 @@ Recursos de matemáticas
    Libros de problemas <libros>
    Oposiciones de Matemáticas <oposiciones>
    Oposiciones de Estadística <estadistica>
-   Exámenes de Estadística nivel universitario <estad_uni>
+   Estadística de nivel universitario <estad>
+   Geografía de nivel universitario <geo>
    Olimpiadas <olimpiada>
    Modelización matemática <model>
    Enlaces interesantes <sitios>
