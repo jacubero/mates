@@ -40,7 +40,7 @@ Libros de problemas
    :align: left
 
 
-.. [AlvarezCubero:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2017: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089XCTVRF>`_. Independently published. ISBN-13=979-8652005498.
+.. [AlvarezCubero:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2017: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089TV3JHP>`_. Independently published. ISBN-13=979-8652005498.
 
 |
 |
