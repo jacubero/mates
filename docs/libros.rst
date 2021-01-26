@@ -6,7 +6,7 @@ Libros de problemas
    :align: left
 
 
-.. [AlvarezCubero:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2019: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08DC63RDS>`_. Independently published. ISBN-13=979-8663900645.
+.. [AlvarezCubero:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2019: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08DD4CJ8W>`_. Independently published. ISBN-13=979-8663900645.
 
 |
 |
@@ -23,7 +23,7 @@ Libros de problemas
    :align: left
 
 
-.. [AlvarezCubero:2018] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2018: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089CSZ64C>`_. Independently published. ISBN-13=979-8649749961.
+.. [AlvarezCubero:2018] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2018: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089G7M7S4>`_. Independently published. ISBN-13=979-8649749961.
 
 |
 |
@@ -40,7 +40,7 @@ Libros de problemas
    :align: left
 
 
-.. [AlvarezCubero:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2017: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089TV3JHP>`_. Independently published. ISBN-13=979-8652005498.
+.. [AlvarezCubero:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2017: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089XCTVRF>`_. Independently published. ISBN-13=979-8652005498.
 
 |
 |
