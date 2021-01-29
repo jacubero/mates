@@ -133,6 +133,40 @@ Cuerpo de Diplomados en Estadística del Estado
 
       -
 
+Cuerpo General Administrativo de la Administración del Estado, especialidad estadística
+---------------------------------------------------------------------------------------
+
+.. list-table:: Enunciados de los exámenes de las oposiciones de años anteriores.
+    :widths: 5 10 10
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Año
+
+      - Primer ejercicio
+
+      - Segundo ejercicio
+
+
+    * - 2018
+
+      - `Primer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_respuestas_examen_1_18.pdf>`_, `Corrección <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_correccion_error_1_18.pdf>`_
+
+      - `Segundo ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_preguntas_2_18.pdf>`_
+
+    * - 2017
+
+      - `Primer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_respuestas_examen_1_17.pdf>`_, `Corrección <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_correccion_error_1_17.pdf>`_
+
+      - `Segundo ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_preguntas_2_17.pdf>`_
+
+    * - 2016
+
+      - `Primer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_respuestas_examen_1_16.xls>`_
+
+      - `Segundo ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Admin/admin_preguntas_2_16.pdf>`_
+
+
 Escala superior de estadísticos del Instituto Galego de Estadística
 -------------------------------------------------------------------
 
