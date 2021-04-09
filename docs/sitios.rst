@@ -22,16 +22,24 @@ Miscelánea
 
 * `Álgebra lineal y Geometría <https://ocw.unican.es/course/view.php?id=200&section=1>`_
 
+* `Álgebra Lineal (Telecom.) <http://matematicas.uam.es/~fernando.chamizo/asignaturas/2021alglin/2021alglin.html>`_
+
+* `Cálculo <http://www.esi2.us.es/~mbilbao/calculo.htm#notas>`_
+
 * `Wiki de Análisis matemático <http://wam.usal.es/index.php/P%C3%A1gina_principal>`_
 
 * `Campus de matemáticas <https://campusdematematicas.com/>`_
 
 * `U.D. de Matemáticas de la E.T.S.I. Topografía, Geodesia y Cartografía <http://asignaturas.topografia.upm.es/matematicas/>`_
 
+* `4 problemas de matemáticas sencillos que nadie sabe resolver <https://www.esquire.com/es/tecnologia/g35390092/problemas-matematicas-sin-resolver/>`_
+
 Estadística
 -----------
 
 * `Portal fuenterrebollo <http://www.fuenterrebollo.com/>`_
+
+* `La certeza absoluta y otras ficciones <http://www-eio.upc.es/~grima/Making%20off.html#Colera>`_
 
 Olimpiadas matemáticas
 ----------------------
