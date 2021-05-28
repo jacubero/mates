@@ -158,7 +158,7 @@ Problemas del práctico por comunidades
 
       - `Murcia <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/murcia18.pdf>`_
 
-      - `Navarra <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/navarra18.pdf>`_
+      - `Castellano <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/navarra18.pdf>`_, `Euskera <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/navarra18-Euskera.pdf>`_
 
       - `País Vasco <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/pvasco18.pdf>`_
 
