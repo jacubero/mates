@@ -4,6 +4,8 @@ Sitios web de matemáticas
 Miscelánea
 ----------
 
+* `lasmatematicas.es <https://www.dmae.upct.es/~juan/videosfund/videosfund.htm>`_
+
 * `Base de datos de ejercicios y problemas de Matemáticas <https://www.bdmat.com/>`_
 
 * `Rincón matemático <http://rinconmatematico.com/>`_
@@ -33,6 +35,8 @@ Miscelánea
 * `U.D. de Matemáticas de la E.T.S.I. Topografía, Geodesia y Cartografía <http://asignaturas.topografia.upm.es/matematicas/>`_
 
 * `4 problemas de matemáticas sencillos que nadie sabe resolver <https://www.esquire.com/es/tecnologia/g35390092/problemas-matematicas-sin-resolver/>`_
+
+* `¿Cómo se resuelve el problema de 'los 36 oficiales'? <https://www.abc.es/ciencia/abci-como-resuelve-problema-36-oficiales-202106070116_noticia.html>`_
 
 Estadística
 -----------
