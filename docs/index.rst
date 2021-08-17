@@ -17,7 +17,7 @@ Recursos de matemáticas
    :maxdepth: 2
 
    Prefacio <prefacio>
-   Libros de problemas <libros>
+   Libros <libros>
    Oposiciones de Matemáticas <oposiciones>
    Oposiciones de Estadística <estadistica>
    Estadística de nivel universitario <estad>

@@ -1,5 +1,8 @@
-Libros de problemas
-===================
+Libros
+======
+
+Problemas de matemáticas
+------------------------
 
 .. image:: /images/opo19.jpg
    :width: 200px
@@ -121,3 +124,23 @@ Libros de problemas
    :align: left
 
 .. [AlvarezCubero:2010] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2010: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8518534742.
+
+*******
+Puzzles
+*******
+
+.. image:: /images/expert-lp.jpg
+   :width: 200px
+   :align: left
+
+.. [expert-lp] Alvarez Cubero, Jose Antonio. `Large Print Sudoku Puzzles for Experts Volume 1 <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8456618030.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
