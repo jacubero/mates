@@ -153,6 +153,9 @@ Puzzles
 |
 |
 |
+|
+|
+|
 
 .. image:: /images/advanced-lp.jpg
    :width: 200px
@@ -169,6 +172,9 @@ Puzzles
 |
 |
 |
+|
+|
+|
 
 .. image:: /images/intermediate-lp.jpg
    :width: 200px
@@ -176,6 +182,9 @@ Puzzles
 
 .. [intermediate-lp] Alvarez Cubero, Jose Antonio. `Large Print Sudoku Puzzles for Intermediate Solvers Volume 1 <https://www.amazon.com/dp/B09CKP1GD3>`_. Independently published. ISBN-13=979-8456089144.
 
+|
+|
+|
 |
 |
 |
