@@ -135,9 +135,8 @@ Problemas de matemáticas
 |
 |
 
-*******
 Puzzles
-*******
+-------
 
 .. image:: /images/expert-lp.jpg
    :width: 200px
