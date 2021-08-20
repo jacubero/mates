@@ -125,6 +125,16 @@ Problemas de matemáticas
 
 .. [AlvarezCubero:2010] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2010: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8518534742.
 
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 *******
 Puzzles
 *******
@@ -144,3 +154,41 @@ Puzzles
 |
 |
 |
+
+.. image:: /images/advanced-lp.jpg
+   :width: 200px
+   :align: left
+
+.. [advanced-lp] Alvarez Cubero, Jose Antonio. `Large Print Sudoku Puzzles for Advanced Solvers Volume 1 <https://www.amazon.com/dp/B09CKL2SHF>`_. Independently published. ISBN-13=979-8456123770.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/intermediate-lp.jpg
+   :width: 200px
+   :align: left
+
+.. [intermediate-lp] Alvarez Cubero, Jose Antonio. `Large Print Sudoku Puzzles for Intermediate Solvers Volume 1 <https://www.amazon.com/dp/B09CKP1GD3>`_. Independently published. ISBN-13=979-8456089144.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/beginner-lp.jpg
+   :width: 200px
+   :align: left
+
+.. [beginner-lp] Alvarez Cubero, Jose Antonio. `Large Print Sudoku Puzzles for Beginners Volume 1 <https://www.amazon.com/dp/B09CGKTM57>`_. Independently published. ISBN-13=979-8455203343.
