@@ -4,6 +4,23 @@ Libros
 Problemas de matemáticas
 ------------------------
 
+.. image:: /images/opo21v1.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2021] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2021. Volumen 1: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B09JMWNK42>`_. Independently published. ISBN-13=979-8498430928.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. image:: /images/opo19.jpg
    :width: 200px
    :align: left
@@ -38,7 +55,7 @@ Problemas de matemáticas
 |
 |
 
-.. image:: /images/opo17.png
+.. image:: /images/opo17.jpg
    :width: 200px
    :align: left
 
