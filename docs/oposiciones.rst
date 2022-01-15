@@ -90,6 +90,44 @@ Problemas del práctico por comunidades
            :height: 50px
            :width: 50px
 
+    * - 2021
+
+      - `Andalucía <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/andalucia21.pdf>`_
+
+      - `Aragón <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/aragon21.pdf>`_
+
+      - `Asturias <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/asturias21.pdf>`_
+
+      - `Ibiza y Formentera <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/ibiza21.pdf>`_ , `Mallorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/mallorca21.pdf>`_ , `Menorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/menorca21.pdf>`_ 
+
+      - `Canarias <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/canarias21.pdf>`_
+
+      - `Cantabria <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/cantabria21.pdf>`_
+
+      - `Opción A <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/cataluna21A.pdf>`_, `Opción B <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/cataluna21B.pdf>`_
+
+      - `Ceuta <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/ceuta21.pdf>`_ , `Melilla <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/melilla21.pdf>`_
+
+      - `Turnos 1 y 2 <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/cleon21-1y2.pdf>`_, `Turno 5 <https://github.com/jacubero/mates/blob/master/Oposiciones/2018/cleon21-5.pdf>`_
+
+      - Castilla la Mancha
+
+      - `Extremadura <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/extremadura21.png>`_
+
+      - `Opción 1 <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/galicia21-1.pdf>`_, `Opción 2 <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/galicia21-2.pdf>`_
+
+      - `Madrid <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/madrid21.pdf>`_
+
+      - `Murcia <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/murcia21.pdf>`_
+
+      - `Castellano <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21C-1A.pdf>`_, `Castellano Covid <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21C-1A-COVID.pdf>`_, `Euskera <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21E-1A-E.pdf>`_, `Euskera Covid <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21E-COVID-E.pdf>`_
+
+      - País Vasco
+
+      - La Rioja
+
+      - `Comunidad Valenciana <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/valencia21.pdf>`_
+
     * - 2019
 
       - 
@@ -251,6 +289,44 @@ Criterios de corrección
       - .. figure:: images/valencia.png
            :height: 50px
            :width: 50px
+
+    * - 2021
+
+      - Andalucía
+
+      - `Aragón <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/aragon21-crit.pdf>`_
+
+      - `Asturias <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/asturias21-crit.pdf>`_
+
+      - Baleares
+
+      - Canarias
+
+      - `Cantabria <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/cantabria21-crit.pdf>`_
+
+      - Cataluña
+
+      - Ceuta, Melilla
+
+      - `Castilla León <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/cleon21-crit.pdf>`_
+
+      - Castilla la Mancha
+
+      - Extremadura
+
+      - `<https://github.com/jacubero/mates/blob/master/Oposiciones/2021/galicia21-crit.pdf>`_Galicia
+
+      - Madrid
+
+      - Murcia
+
+      - Navarra
+
+      - País Vasco
+
+      - La Rioja
+
+      - `Comunidad Valenciana <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/valencia21-crit.pdf>`_
 
     * - 2019
 
