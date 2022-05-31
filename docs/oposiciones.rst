@@ -122,7 +122,8 @@ Problemas del práctico por comunidades
 
       - `Castellano <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21C-1A.pdf>`_, `Castellano Covid <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21C-1A-COVID.pdf>`_, `Euskera <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21E-1A-E.pdf>`_, `Euskera Covid <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/navarra21E-COVID-E.pdf>`_
 
-      - País Vasco
+      - `País Vasco <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/pvasco21.pdf>`_
+
 
       - La Rioja
 
