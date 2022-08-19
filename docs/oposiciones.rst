@@ -90,6 +90,44 @@ Problemas del práctico por comunidades
            :height: 50px
            :width: 50px
 
+    * - 2022
+
+      - 
+
+      - 
+
+      - 
+
+      - `Ibiza y Formentera <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/ibiza22.pdf>`_ , `Mallorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/mallorca22.pdf>`_ , `Mallorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/menorca22.pdf>`_
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
+      - `Galicia <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/galicia22.jpg>`_
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
+      - 
+
     * - 2021
 
       - `Andalucía <https://github.com/jacubero/mates/blob/master/Oposiciones/2021/andalucia21.pdf>`_
