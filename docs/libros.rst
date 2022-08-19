@@ -4,6 +4,23 @@ Libros
 Problemas de matemáticas
 ------------------------
 
+.. image:: /images/opo22.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2022: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0B8NF8FGD>`_. Publicado en Amazon. ISBN-13=979-8843969554.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. image:: /images/opo21v2.jpg
    :width: 200px
    :align: left
