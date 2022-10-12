@@ -186,6 +186,22 @@ Problemas de matemáticas
 |
 |
 
+.. image:: /images/opo69.jpg
+   :width: 200px
+   :align: left
+
+.. [AlvarezCubero:1969] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas años 1969,1971 y 1973: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0BHL87KSR>`_. Publicado en Amazon. ISBN-13=979-8356661297.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 Puzzles
 -------
 
