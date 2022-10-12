@@ -1,4 +1,4 @@
-Geografía de nivel universitario
+Geometría de nivel universitario
 ================================
 
 Universidad Politécnica de Madrid
