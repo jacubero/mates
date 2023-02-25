@@ -98,7 +98,7 @@ Problemas del práctico por comunidades
 
       - 
 
-      - `Ibiza y Formentera <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/ibiza22.pdf>`_ , `Mallorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/mallorca22.pdf>`_ , `Mallorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/menorca22.pdf>`_
+      - `Ibiza y Formentera <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/ibiza22.pdf>`_ , `Mallorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/mallorca22.pdf>`_ , `Menorca <https://github.com/jacubero/mates/blob/master/Oposiciones/2022/menorca22.pdf>`_
 
       - 
 
