@@ -19,6 +19,26 @@ Cuerpo Superior de Estadísticos del Estado
 
       - Cuarto ejercicio
 
+    * - 2022
+
+      - `Primer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2022_1.pdf>`_
+
+      - `Segundo ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2022_2.pdf>`_
+
+      - `Tercer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2022_3.zip>`_
+
+      - `Cuarto ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2022_4.zip>`_
+
+    * - 2019
+
+      - `Primer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2019_1.pdf>`_
+
+      - `Segundo ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2019_2.pdf>`_
+
+      - `Tercer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2019_3.zip>`_
+
+      - 
+
     * - 2018
 
       - `Primer ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/super_ejercicio2018_1.pdf>`_
@@ -317,7 +337,23 @@ Cuerpo Técnico de la Administración de la Comunidad Autónoma de Extremadura -
 
 Fuente: `<https://ciudadano.gobex.es/buscador-empleo-publico/-/empleo/ficha/73>`_
 
-Cuerpo Superior de Actuarios, Estadísticos y Economistas de la Administración de la Seguridad Social
-----------------------------------------------------------------------------------------------------
+TGM Estadística - Navarra
+-------------------------
+
+.. list-table:: Enunciados de los exámenes de las oposiciones de años anteriores.
+    :widths: 5 10
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Año
+
+      - Examen
+
+    * - 2019
+
+      - `Ejercicio <https://github.com/jacubero/mates/blob/master/Estadistica/Navarra/Prueba TGM Estadistica_Temporal 2019.pdf>`_
+
+.. Cuerpo Superior de Actuarios, Estadísticos y Economistas de la Administración de la Seguridad Social
+.. ----------------------------------------------------------------------------------------------------
 
 
